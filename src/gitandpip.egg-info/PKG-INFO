@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: bbandpip
+Name: gitandpip
 Version: 0.0.1
-Summary: Testing custom library from bitbucket
-Home-page: https://bitbucket.org/arteric/bbandpip
+Summary: Testing custom library from git
+Home-page: https://github.com/Arteric-Jeff-Knight/gitandpip
 Author: Jeff Knight
 Author-email: jknight@arteric.com
 License: UNKNOWN

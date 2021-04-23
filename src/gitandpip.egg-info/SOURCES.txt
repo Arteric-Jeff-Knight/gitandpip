@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/gitandpip/Jtk.py
+src/gitandpip/__init__.py
+src/gitandpip.egg-info/PKG-INFO
+src/gitandpip.egg-info/SOURCES.txt
+src/gitandpip.egg-info/dependency_links.txt
+src/gitandpip.egg-info/top_level.txt
