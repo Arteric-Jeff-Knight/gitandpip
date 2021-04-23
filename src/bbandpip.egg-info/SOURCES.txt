@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/bbandpip/Jtk.py
+src/bbandpip/__init__.py
+src/bbandpip.egg-info/PKG-INFO
+src/bbandpip.egg-info/SOURCES.txt
+src/bbandpip.egg-info/dependency_links.txt
+src/bbandpip.egg-info/top_level.txt
